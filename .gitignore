@@ -1,0 +1,32 @@
+cat > .gitignore <<'EOF'
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# .NET
+**/bin/
+**/obj/
+artifacts/
+
+# Logs
+*.log
+
+# Banco local
+*.db
+*.db-shm
+*.db-wal
+
+# Arquivos de publicação
+publish/
+
+# Configurações locais
+appsettings.Local.json
+appsettings.Development.local.json
+
+# Testes e cobertura
+TestResults/
+coverage/
+EOF
