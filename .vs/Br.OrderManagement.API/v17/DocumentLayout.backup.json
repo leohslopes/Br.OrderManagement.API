@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\DEV\\Br.OrderManagement.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0587D-87CD-42FF-A563-5400F3DB3ACB}|Br.OrderManagement.Application\\Br.OrderManagement.Application.csproj|c:\\dev\\br.ordermanagement.api\\br.ordermanagement.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C0587D-87CD-42FF-A563-5400F3DB3ACB}|Br.OrderManagement.Application\\Br.OrderManagement.Application.csproj|solutionrelative:br.ordermanagement.application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16135A90-ECB4-40E9-A03F-739D9335A447}|Br.OrderManagement.API\\Br.OrderManagement.API.csproj|c:\\dev\\br.ordermanagement.api\\br.ordermanagement.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16135A90-ECB4-40E9-A03F-739D9335A447}|Br.OrderManagement.API\\Br.OrderManagement.API.csproj|solutionrelative:br.ordermanagement.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0587D-87CD-42FF-A563-5400F3DB3ACB}|Br.OrderManagement.Application\\Br.OrderManagement.Application.csproj|c:\\dev\\br.ordermanagement.api\\br.ordermanagement.application\\dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C0587D-87CD-42FF-A563-5400F3DB3ACB}|Br.OrderManagement.Application\\Br.OrderManagement.Application.csproj|solutionrelative:br.ordermanagement.application\\dtos\\order\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D03A01B-F929-420E-96B9-69BA77D89280}|Br.OrderManagement.Repository\\Br.OrderManagement.Repository.csproj|c:\\dev\\br.ordermanagement.api\\br.ordermanagement.repository\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D03A01B-F929-420E-96B9-69BA77D89280}|Br.OrderManagement.Repository\\Br.OrderManagement.Repository.csproj|solutionrelative:br.ordermanagement.repository\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C0587D-87CD-42FF-A563-5400F3DB3ACB}|Br.OrderManagement.Application\\Br.OrderManagement.Application.csproj|c:\\dev\\br.ordermanagement.api\\br.ordermanagement.application\\dtos\\order\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C0587D-87CD-42FF-A563-5400F3DB3ACB}|Br.OrderManagement.Application\\Br.OrderManagement.Application.csproj|solutionrelative:br.ordermanagement.application\\dtos\\order\\orderitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\DEV\\Br.OrderManagement.API\\Br.OrderManagement.Repository\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Br.OrderManagement.Repository\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\DEV\\Br.OrderManagement.API\\Br.OrderManagement.Repository\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Br.OrderManagement.Repository\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T20:15:49.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\DEV\\Br.OrderManagement.API\\Br.OrderManagement.Application\\DTOs\\Order\\OrderDto.cs",
+              "RelativeDocumentMoniker": "Br.OrderManagement.Application\\DTOs\\Order\\OrderDto.cs",
+              "ToolTip": "C:\\DEV\\Br.OrderManagement.API\\Br.OrderManagement.Application\\DTOs\\Order\\OrderDto.cs",
+              "RelativeToolTip": "Br.OrderManagement.Application\\DTOs\\Order\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T20:14:32.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\DEV\\Br.OrderManagement.API\\Br.OrderManagement.Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Br.OrderManagement.Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\DEV\\Br.OrderManagement.API\\Br.OrderManagement.Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "Br.OrderManagement.Application\\Services\\OrderService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAQwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T20:12:35.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderItemDto.cs",
+              "DocumentMoniker": "C:\\DEV\\Br.OrderManagement.API\\Br.OrderManagement.Application\\DTOs\\Order\\OrderItemDto.cs",
+              "RelativeDocumentMoniker": "Br.OrderManagement.Application\\DTOs\\Order\\OrderItemDto.cs",
+              "ToolTip": "C:\\DEV\\Br.OrderManagement.API\\Br.OrderManagement.Application\\DTOs\\Order\\OrderItemDto.cs",
+              "RelativeToolTip": "Br.OrderManagement.Application\\DTOs\\Order\\OrderItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T20:11:14.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\DEV\\Br.OrderManagement.API\\Br.OrderManagement.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Br.OrderManagement.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\DEV\\Br.OrderManagement.API\\Br.OrderManagement.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Br.OrderManagement.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-01T19:18:17.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

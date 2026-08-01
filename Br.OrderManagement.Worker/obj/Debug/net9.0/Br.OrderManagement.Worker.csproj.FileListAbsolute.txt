@@ -1,0 +1,11 @@
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\bin\Debug\net9.0\Br.OrderManagement.Worker.deps.json
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\bin\Debug\net9.0\Br.OrderManagement.Worker.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\bin\Debug\net9.0\Br.OrderManagement.Worker.pdb
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\obj\Debug\net9.0\Br.OrderManagement.Worker.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\obj\Debug\net9.0\Br.OrderManagement.Worker.AssemblyInfoInputs.cache
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\obj\Debug\net9.0\Br.OrderManagement.Worker.AssemblyInfo.cs
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\obj\Debug\net9.0\Br.OrderManagement.Worker.csproj.CoreCompileInputs.cache
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\obj\Debug\net9.0\Br.OrderManagement.Worker.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\obj\Debug\net9.0\refint\Br.OrderManagement.Worker.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\obj\Debug\net9.0\Br.OrderManagement.Worker.pdb
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Worker\obj\Debug\net9.0\ref\Br.OrderManagement.Worker.dll

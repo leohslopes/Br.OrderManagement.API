@@ -1,0 +1,13 @@
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\bin\Debug\net9.0\Br.OrderManagement.Domain.deps.json
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\bin\Debug\net9.0\Br.OrderManagement.Domain.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\bin\Debug\net9.0\Br.OrderManagement.Domain.pdb
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\obj\Debug\net9.0\Br.OrderManagement.Domain.csproj.AssemblyReference.cache
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\obj\Debug\net9.0\Br.OrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\obj\Debug\net9.0\Br.OrderManagement.Domain.AssemblyInfoInputs.cache
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\obj\Debug\net9.0\Br.OrderManagement.Domain.AssemblyInfo.cs
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\obj\Debug\net9.0\Br.OrderManagement.Domain.csproj.CoreCompileInputs.cache
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\obj\Debug\net9.0\Br.OrderManagement.Domain.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\obj\Debug\net9.0\refint\Br.OrderManagement.Domain.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\obj\Debug\net9.0\Br.OrderManagement.Domain.pdb
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\obj\Debug\net9.0\ref\Br.OrderManagement.Domain.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Domain\obj\Debug\net9.0\Br.OrderManagement.Domain.sourcelink.json

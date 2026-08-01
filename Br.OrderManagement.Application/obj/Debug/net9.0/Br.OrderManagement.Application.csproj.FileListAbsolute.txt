@@ -1,0 +1,16 @@
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\bin\Debug\net9.0\Br.OrderManagement.Application.deps.json
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\bin\Debug\net9.0\Br.OrderManagement.Application.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\bin\Debug\net9.0\Br.OrderManagement.Application.pdb
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\bin\Debug\net9.0\Br.OrderManagement.Domain.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\bin\Debug\net9.0\Br.OrderManagement.Domain.pdb
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\Br.OrderManagement.Application.csproj.AssemblyReference.cache
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\Br.OrderManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\Br.OrderManagement.Application.AssemblyInfoInputs.cache
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\Br.OrderManagement.Application.AssemblyInfo.cs
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\Br.OrderManagement.Application.csproj.CoreCompileInputs.cache
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\Br.Order.AD3C96E0.Up2Date
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\Br.OrderManagement.Application.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\refint\Br.OrderManagement.Application.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\Br.OrderManagement.Application.pdb
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\ref\Br.OrderManagement.Application.dll
+C:\DEV\Br.OrderManagement.API\Br.OrderManagement.Application\obj\Debug\net9.0\Br.OrderManagement.Application.sourcelink.json
